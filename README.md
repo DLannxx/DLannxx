@@ -1,7 +1,7 @@
 # Hi, I'm Kleber A. Aguilar 👋
 ### Product Builder & Software Engineer | FlutterFlow & Supabase Specialist
 
-I design and build scalable, production-ready digital products end-to-end. I bridge rapid low-code development (FlutterFlow) with solid backend architecture (Supabase / PostgreSQL) and data-driven UI/UX design (SUS score 94.5).
+I design and build scalable, production-ready digital products end-to-end. I bridge rapid low-code development (FlutterFlow) with solid backend architecture (Supabase / PostgreSQL) and data-driven UI/UX design.
 
 ---
 
